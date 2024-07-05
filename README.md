@@ -74,4 +74,4 @@ We welcome contributions from the community to help improve SafeCampusGuard. Ple
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name] at [your.email@example.com].
+For any inquiries or support, please contact [karuna mali] at [karutm214@gmail.com].
